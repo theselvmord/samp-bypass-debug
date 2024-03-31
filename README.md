@@ -12,7 +12,7 @@ Obs: Quem faz merda é Você, E apenas estamos conseguindo acesso a uma função
   - `sub_10069770`   -> Pelo oque eu vi, ele define qual função tal comando pre definido irá executar, Por Ex: o "/quit" vai executar a função: sub_100689E0
   - `unk_100E6300`   -> Por mais que seja um valor desconhecido, creio que seja o "/v" pois usa a mesma função do "/vehicle".
 
-# Comandos:
+# Comandos que poderão ser usados:
 - /vsel
 - /vehicle
 - /player_skin
