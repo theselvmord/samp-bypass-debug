@@ -1,3 +1,5 @@
+# SA:MP 0.3.7 R5
+
 > Aviso: Aconselho usar Auto-Inject pois a verificação do Modo Debug acontece desde do DllMain do propio SA:MP.
 
 ---
