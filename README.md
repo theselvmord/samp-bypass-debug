@@ -1,6 +1,10 @@
 # Comandos que poderão ser usados sem barreira:
 > Aviso: Aconselho usar Auto-Inject pois a verificação do Modo Debug acontece desde do DllMain do propio SA:MP.
 
+---
+
+Obs: Quem faz merda é Você, E apenas estamos conseguindo acesso a uma função nativa do propio Mod, Não me responsabilizo por nada =P
+
 # 
 ![a](https://github.com/tisiohw/samp-bypass-debug/blob/main/code_ida.png)
 
